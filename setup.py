@@ -12,4 +12,4 @@ setup(name='shusaku',
           'tensorflow'
       ],
       zip_safe=False
-  )
+      )
