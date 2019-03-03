@@ -8,6 +8,8 @@ setup(name='shusaku',
       packages=['shusaku'],
       install_requires=[
           'libshusaku',
+          'numpy',
+          'tensorflow'
       ],
       zip_safe=False
   )
